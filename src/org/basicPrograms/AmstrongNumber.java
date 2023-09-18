@@ -29,9 +29,9 @@ public class AmstrongNumber {
 	}
 	
 	if (n==res) {
-		System.out.println("the Amstrong number");
+		System.out.println(n+" the Amstrong number");
 	} else {
-		System.out.println("Non Amstrong number ");
+		System.out.println(n+" Non Amstrong number ");
 	}
 	
 	}
